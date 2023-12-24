@@ -28,7 +28,15 @@
 
 ---
 
+### 🎨 &nbsp;Creative Stack
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-7533CC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+<br>
+<br>
 
+---
 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-0c458b?style=for-the-badge&logo=dart)&nbsp;
@@ -38,6 +46,7 @@
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=for-the-badge&logo=Firebase)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 <br>
 <br>
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -55,9 +64,10 @@
 
 <a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Haikal&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
 
-<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a> -->
+<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
 
-<!--  <a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a> -->
+<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
 
 
-<!-- <a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a> -->
+<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a>
+-->
