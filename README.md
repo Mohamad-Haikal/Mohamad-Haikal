@@ -33,8 +33,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-7533CC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-<br>
-<br>
 
 ---
 
@@ -57,8 +55,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
-
----
 
 <!-- ### 📈 GitHub Activity Graph:
 
