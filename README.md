@@ -1,7 +1,7 @@
 <!--========================================        title       =======================================-->
 <h1 align="center">
   Hi, I'm Mohamad Haikal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 
@@ -10,7 +10,7 @@
 
 <!--========================================        animated description       =======================================-->
 <div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F77222&size=22&duration=2500&pause=2000&multiline=true&width=700&lines=Graphic+Designer+|+Flutter+Developer+|+Multimedia+Designer">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&color=ff9a1f&size=25&duration=2500&pause=2000&multiline=true&width=800&lines=Graphic+Designer+|+Flutter+Developer+|+Multimedia+Designer">
 </div>
 
 
