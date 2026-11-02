@@ -1,71 +1,90 @@
-<!--========================================        title       =======================================-->
-<h1 align="center">
-  Hi, I'm Mohamad Haikal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<!-- Personal profile README for github.com/Mohamad-Haikal -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" alt="Mohamad Haikal. From interface to infrastructure. Design, build, ship." width="100%">
+  </picture>
+</p>
 
+<h1 align="center">Mohamad Haikal</h1>
+<p align="center">
+  <strong>Full-Stack Developer</strong> · Creative Technologist · Product Builder
+</p>
+<p align="center">
+  <a href="https://mohamad-haikal.me/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohamad0haikal/">LinkedIn</a> ·
+  <a href="https://marketplace.visualstudio.com/items?itemName=MohamadHaikal.dartPartofAndPartGenerator">VS Code Extension</a>
+</p>
 
+## The short version
 
+I build software with a **designer's eye and an engineer's mindset**.
 
+I'm a full-stack developer based in **Amman, Jordan**, working across mobile apps, web platforms, backend APIs, and the infrastructure that runs them. I enjoy taking a product beyond the interface: understanding its data, integrations, deployment, and the problems that only show up in production.
 
-<!--========================================        animated description       =======================================-->
-<div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&color=ff9a1f&size=25&duration=2500&pause=2000&multiline=true&width=800&lines=Graphic+Designer+|+Flutter+Developer+|+Multimedia+Designer">
-</div>
+I work as a **Full-Stack Developer at Ghayat for Information Technology**, and I'm studying **Computer Science at Al-Hussein Technical University**. My journey started with design and interactive experiences, then grew into building and operating real-world software.
 
+## Selected work
 
+### 01 / [Dart Part of & Part Generator](https://github.com/Mohamad-Haikal/dartPartofAndPartGenerator)
 
+A published **VS Code extension** that makes Dart projects easier to maintain by generating and organizing `part` and `part of` directives. A small developer-experience problem turned into a tool other developers can install and use.
 
-<!--========================================       s: contact with me       =======================================-->
-### Connect with Me :
+[Source code](https://github.com/Mohamad-Haikal/dartPartofAndPartGenerator) · [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MohamadHaikal.dartPartofAndPartGenerator)
 
-<a href="https://www.linkedin.com/in/Mohamad0Haikal/" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://Instagram.com/Mohamad0Haikal" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://Facebook.com/Mohamad0Haikal" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+[![VS Code Marketplace installs](https://img.shields.io/visual-studio-marketplace/i/MohamadHaikal.dartPartofAndPartGenerator?style=flat-square&color=087f83&label=Marketplace%20installs)](https://marketplace.visualstudio.com/items?itemName=MohamadHaikal.dartPartofAndPartGenerator)
 
-<!--========================================       buy me a coffee       =======================================-->
-<a href="https://www.buymeacoffee.com/Mohamad0Haikal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+### 02 / [ClashNite Tycoon](https://www.fortnite.com/@o4s/3104-3633-9717)
 
----
+Designed and developed a Fortnite experience in **UEFN and Verse**, covering gameplay systems, progression, and visual design. During its original run, the project reached **42K+ plays** and **4M+ impressions**.
 
-### 🎨 &nbsp;Creative Stack
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-7533CC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+[Explore the island (3104-3633-9717)](https://www.fortnite.com/@o4s/3104-3633-9717) · [More projects on my portfolio](https://mohamad-haikal.me/)
 
----
+<sub>The island is now publicly listed as "Steal the ClashNite". The figures above refer to the original ClashNite project.</sub>
 
-### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-0c458b?style=for-the-badge&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=for-the-badge&logo=Firebase)&nbsp;
-![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-<br>
-<br>
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
-<br>
-<br>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
+### 03 / Al-Shafi' Quranic Learning App
 
-<!-- ### 📈 GitHub Activity Graph:
+Built a **Flutter and Firebase** learning app connecting teachers, students, and parents, with role-based experiences and progress tracking. A project that brought together product thinking, mobile development, and practical user workflows.
 
-<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Haikal&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
+[See projects on my portfolio](https://mohamad-haikal.me/)
 
-<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
+### 04 / Production systems & integrations
 
-<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
+At work, I contribute to **Laravel-based services, backend integrations, databases, and Linux deployments**. I spend time on the less visible parts of a product too: debugging requests, investigating logs, improving authentication flows, and keeping services dependable.
 
+<sub>Some commercial projects and implementation details aren't public, so I share the engineering areas rather than private code or client specifics.</sub>
 
-<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a>
--->
+## What I work with
+
+**Applications & APIs**  
+`Flutter` · `Dart` · `Laravel` · `PHP` · `JavaScript / TypeScript` · `REST APIs`
+
+**Data & operations**  
+`MySQL` · `Firebase` · `Linux / Ubuntu` · `Nginx` · `Git` · `SSH`
+
+**Design & interactive work**  
+`UI/UX` · `Adobe Illustrator / Photoshop` · `UEFN` · `Verse`
+
+<sub>I also explore Python, desktop tooling, and Rust/Tauri. These are growing areas, not claims of equal expertise across every technology.</sub>
+
+## What I'm curious about
+
+- **Developer tools:** removing repetitive work from everyday development.
+- **Reliable software:** building useful features and making them work in production.
+- **Desktop applications & AI-assisted workflows:** connecting practical ideas to usable tools.
+- **Arabic-first tech:** making quality technical projects and knowledge more accessible in Arabic.
+
+## Beyond the repositories
+
+I've also worked on Flutter commerce applications, design systems, and independent product experiments. Not everything I build lives in a public GitHub repository, but I try to make the work I *can* share useful, documented, and real.
+
+> Good products need both thoughtful interfaces and dependable systems behind them.
+
+## Let's connect
+
+I'm interested in meaningful engineering work, remote collaboration, useful open-source projects, and people who enjoy building things properly.
+
+**[View my work](https://mohamad-haikal.me/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mohamad0haikal/)** · **[Browse my GitHub repositories](https://github.com/Mohamad-Haikal?tab=repositories)**
+
+<p align="center"><sub>Designed and built with purpose. Based in Amman, Jordan.</sub></p>
+<p align="center"><sub>وأؤمن أن المعرفة التقنية تستحق محتوى عربيًا أصيلًا.</sub></p>
