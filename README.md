@@ -28,38 +28,50 @@ I study **Computer Science at Al-Hussein Technical University (HTU)**.
 <table>
   <tr>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/backend-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/backend-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/backend-dark.svg"><img src="./assets/backend-light.svg" alt="Backend development illustration" width="100%"></picture>
       <h3>Backend &amp; integrations</h3>
       <p>APIs, authentication, webhooks, background jobs, and external integrations.</p>
+      </br>
     </td>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/mobile-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/mobile-dark.svg"><img src="./assets/mobile-light.svg" alt="Mobile development illustration" width="100%"></picture>
       <h3>Mobile applications</h3>
       <p>Flutter apps, notifications, maps, background tasks, and store releases.</p>
+      </br>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/frontend-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/frontend-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/frontend-dark.svg"><img src="./assets/frontend-light.svg" alt="Web development illustration" width="100%"></picture>
       <h3>Web interfaces</h3>
       <p>Responsive websites, admin dashboards, and multilingual interfaces.</p>
+      </br>
     </td>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/platform-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/platform-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/platform-dark.svg"><img src="./assets/platform-light.svg" alt="Servers and infrastructure illustration" width="100%"></picture>
       <h3>Servers &amp; deployment</h3>
       <p>Linux deployments, Nginx, server configuration, monitoring, and debugging.</p>
+      </br>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/devtools-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/devtools-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/devtools-dark.svg"><img src="./assets/devtools-light.svg" alt="Developer tools illustration" width="100%"></picture>
       <h3>Tools &amp; automation</h3>
       <p>VS Code extensions, scripts, CI/CD, and desktop tools.</p>
+      </br>
     </td>
     <td width="50%" valign="top">
+      </br>
       <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/design-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/design-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/design-dark.svg"><img src="./assets/design-light.svg" alt="Graphic design illustration" width="100%"></picture>
       <h3>Design &amp; multimedia</h3>
       <p>Interface design, visual identity, video, motion graphics, and 3D.</p>
+      </br>
     </td>
   </tr>
 </table>
@@ -101,13 +113,14 @@ My experience covers **e-commerce**, **education**, **mobile operations and loca
 **Languages:** Arabic, English  
 **Links:** [Portfolio](https://mohamad-haikal.me) · [LinkedIn](https://www.linkedin.com/in/mohamad0haikal/) · [GitHub repositories](https://github.com/Mohamad-Haikal?tab=repositories)
 
-<details>
-  <summary><b>Other tools and areas I've worked with</b></summary>
+</br>
+<b>Other tools and areas I've worked with</b>
+<ul>
+  <li><strong>Game tools:</strong> Unreal Editor for Fortnite (UEFN), Verse, Blender, and gameplay prototyping.</li>
+  <li><strong>AI experiments:</strong> Python scripts, image-generation workflows, and AI-assisted development tools.</li>
+  <li><strong>Electronics:</strong> Arduino boards and HID / microcontroller experiments.</li>
+  <li><strong>Desktop:</strong> Tauri and Rust experiments, including bilingual (Arabic/English) interface concepts.</li>
+</ul>
 
-  <ul>
-    <li><strong>Game tools:</strong> Unreal Editor for Fortnite (UEFN), Verse, Blender, and gameplay prototyping.</li>
-    <li><strong>AI experiments:</strong> Python scripts, image-generation workflows, and AI-assisted development tools.</li>
-    <li><strong>Electronics:</strong> Arduino boards and HID / microcontroller experiments.</li>
-    <li><strong>Desktop:</strong> Tauri and Rust experiments, including bilingual (Arabic/English) interface concepts.</li>
-  </ul>
-</details>
+
+
