@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="50" viewBox="0 0 184 50" role="img" aria-label="Portfolio">
+<rect x="1" y="1" width="182" height="48" rx="13" fill="#141E2B" stroke="#34475B" stroke-width="1.5" />
+<rect x="13" y="15" width="21" height="20" rx="4" fill="none" stroke="#7FD8CB" stroke-width="1.8" />
+<path d="M19 27 L29 17" fill="none" stroke="#7FD8CB" stroke-width="2" opacity="1" />
+<path d="M24 17 L29 17" fill="none" stroke="#7FD8CB" stroke-width="2" opacity="1" />
+<path d="M29 17 L29 23" fill="none" stroke="#7FD8CB" stroke-width="2" opacity="1" />
+<text x="50" y="32" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="650" letter-spacing="-0.2" fill="#EAF3F9" >Portfolio</text>
+<text x="165" y="30" font-family="Inter, Arial, Helvetica, sans-serif" font-size="15" font-weight="650" letter-spacing="0" fill="#A5B5C9" text-anchor="middle" >↗</text>
+</svg>
