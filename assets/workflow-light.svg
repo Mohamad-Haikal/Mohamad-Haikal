@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="169" viewBox="0 0 1050 169"><rect x=".5" y=".5" width="1049" height="168" rx="16" fill="#f8fafc" stroke="#dce4ed"/><rect x="24" y="32" width="232" height="106" rx="12" fill="#f8fafc" stroke="#dce4ed"/>
+        <rect x="39" y="49" width="30" height="30" rx="9" fill="#80ddd1" fill-opacity=".14"/>
+        <circle cx="54" cy="64" r="7" fill="none" stroke="#80ddd1" stroke-width="2.2"/>
+        <text x="80" y="65" font-size="12" font-weight="700" fill="#192635" font-family="Arial, sans-serif" letter-spacing=".6">INTERFACES</text>
+        <path d="M40 93H240" stroke="#dce4ed"/>
+        <text x="40" y="115" font-size="12.2" fill="#5e7186" font-family="Arial, sans-serif">Web / UI</text><rect x="278" y="32" width="232" height="106" rx="12" fill="#f8fafc" stroke="#dce4ed"/>
+        <rect x="293" y="49" width="30" height="30" rx="9" fill="#a8a2ff" fill-opacity=".14"/>
+        <circle cx="308" cy="64" r="7" fill="none" stroke="#a8a2ff" stroke-width="2.2"/>
+        <text x="334" y="65" font-size="12" font-weight="700" fill="#192635" font-family="Arial, sans-serif" letter-spacing=".6">APPLICATIONS</text>
+        <path d="M294 93H494" stroke="#dce4ed"/>
+        <text x="294" y="115" font-size="12.2" fill="#5e7186" font-family="Arial, sans-serif">Flutter / Dart</text><rect x="532" y="32" width="232" height="106" rx="12" fill="#f8fafc" stroke="#dce4ed"/>
+        <rect x="547" y="49" width="30" height="30" rx="9" fill="#79bdf6" fill-opacity=".14"/>
+        <circle cx="562" cy="64" r="7" fill="none" stroke="#79bdf6" stroke-width="2.2"/>
+        <text x="588" y="65" font-size="12" font-weight="700" fill="#192635" font-family="Arial, sans-serif" letter-spacing=".6">APIs &amp; DATA</text>
+        <path d="M548 93H748" stroke="#dce4ed"/>
+        <text x="548" y="115" font-size="12.2" fill="#5e7186" font-family="Arial, sans-serif">Laravel / SQL</text><rect x="786" y="32" width="232" height="106" rx="12" fill="#f8fafc" stroke="#dce4ed"/>
+        <rect x="801" y="49" width="30" height="30" rx="9" fill="#ecc28a" fill-opacity=".14"/>
+        <circle cx="816" cy="64" r="7" fill="none" stroke="#ecc28a" stroke-width="2.2"/>
+        <text x="842" y="65" font-size="12" font-weight="700" fill="#192635" font-family="Arial, sans-serif" letter-spacing=".6">DEPLOYMENT</text>
+        <path d="M802 93H1002" stroke="#dce4ed"/>
+        <text x="802" y="115" font-size="12.2" fill="#5e7186" font-family="Arial, sans-serif">Linux / Nginx</text><path d="M259 85h17m-5 -5 5 5 -5 5" stroke="#b9cad8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M513 85h17m-5 -5 5 5 -5 5" stroke="#b9cad8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M767 85h17m-5 -5 5 5 -5 5" stroke="#b9cad8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

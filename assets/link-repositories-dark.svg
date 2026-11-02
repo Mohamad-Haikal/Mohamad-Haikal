@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="50" viewBox="0 0 184 50" role="img" aria-label="Repositories">
+<rect x="1" y="1" width="182" height="48" rx="13" fill="#141E2B" stroke="#34475B" stroke-width="1.5" />
+<circle cx="18" cy="15" r="3" fill="#7FD8CB" stroke="none" stroke-width="1"/>
+<circle cx="18" cy="34" r="3" fill="#7FD8CB" stroke="none" stroke-width="1"/>
+<circle cx="31" cy="24" r="3" fill="#7FD8CB" stroke="none" stroke-width="1"/>
+<path d="M18 18 L18 30" fill="none" stroke="#7FD8CB" stroke-width="1.8" opacity="1" />
+<path d="M18 23 L28 23" fill="none" stroke="#7FD8CB" stroke-width="1.8" opacity="1" />
+<text x="50" y="32" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="650" letter-spacing="-0.2" fill="#EAF3F9" >Repositories</text>
+<text x="165" y="30" font-family="Inter, Arial, Helvetica, sans-serif" font-size="15" font-weight="650" letter-spacing="0" fill="#A5B5C9" text-anchor="middle" >↗</text>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="346" viewBox="0 0 1280 346" role="img" aria-label="Technology stack arranged into applications, backend and data, and tools and design.">
+<rect x="1" y="1" width="418" height="344" rx="19" fill="#F8FAFD" stroke="#D7DFE9" stroke-width="1.4" />
+<rect x="23" y="22" width="41" height="29" rx="8" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<text x="43.5" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0" fill="#148A85" text-anchor="middle" >01</text>
+<text x="76" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="17" font-weight="720" letter-spacing="0.4" fill="#1B273A" >APPLICATIONS</text>
+<path d="M23 67 L397 67" fill="none" stroke="#D7DFE9" stroke-width="1" opacity="1" />
+<rect x="22" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="33" y="96" width="38" height="38" rx="11" fill="#54C5F8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="52" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >FL</text>
+<text x="81" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Flutter</text>
+<rect x="216" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="227" y="96" width="38" height="38" rx="11" fill="#00B4AB" stroke="none" stroke-width="1" opacity="1"/>
+<text x="246" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >DA</text>
+<text x="275" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Dart</text>
+<rect x="22" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="33" y="177" width="38" height="38" rx="11" fill="#E7BE39" stroke="none" stroke-width="1" opacity="1"/>
+<text x="52" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#0D1B2A" text-anchor="middle" >JS</text>
+<text x="81" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >JavaScript</text>
+<rect x="216" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="227" y="177" width="38" height="38" rx="11" fill="#3178C6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="246" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >TS</text>
+<text x="275" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >TypeScript</text>
+<rect x="22" y="244" width="379" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="33" y="258" width="38" height="38" rx="11" fill="#E47255" stroke="none" stroke-width="1" opacity="1"/>
+<text x="52" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >UI</text>
+<text x="81" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >HTML / CSS</text>
+<rect x="431" y="1" width="418" height="344" rx="19" fill="#F8FAFD" stroke="#D7DFE9" stroke-width="1.4" />
+<rect x="453" y="22" width="41" height="29" rx="8" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<text x="473.5" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0" fill="#148A85" text-anchor="middle" >02</text>
+<text x="506" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="17" font-weight="720" letter-spacing="0.4" fill="#1B273A" >BACKEND &amp; DATA</text>
+<path d="M453 67 L827 67" fill="none" stroke="#D7DFE9" stroke-width="1" opacity="1" />
+<rect x="452" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="463" y="96" width="38" height="38" rx="11" fill="#FF5449" stroke="none" stroke-width="1" opacity="1"/>
+<text x="482" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >LV</text>
+<text x="511" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Laravel</text>
+<rect x="646" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="657" y="96" width="38" height="38" rx="11" fill="#8B89BE" stroke="none" stroke-width="1" opacity="1"/>
+<text x="676" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >PHP</text>
+<text x="705" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >PHP</text>
+<rect x="452" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="463" y="177" width="38" height="38" rx="11" fill="#518AC1" stroke="none" stroke-width="1" opacity="1"/>
+<text x="482" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >SQL</text>
+<text x="511" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >MySQL</text>
+<rect x="646" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="657" y="177" width="38" height="38" rx="11" fill="#F4B445" stroke="none" stroke-width="1" opacity="1"/>
+<text x="676" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#0D1B2A" text-anchor="middle" >FB</text>
+<text x="705" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Firebase</text>
+<rect x="452" y="244" width="379" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="463" y="258" width="38" height="38" rx="11" fill="#5CCEB2" stroke="none" stroke-width="1" opacity="1"/>
+<text x="482" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >API</text>
+<text x="511" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >REST APIs</text>
+<rect x="861" y="1" width="418" height="344" rx="19" fill="#F8FAFD" stroke="#D7DFE9" stroke-width="1.4" />
+<rect x="883" y="22" width="41" height="29" rx="8" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<text x="903.5" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0" fill="#148A85" text-anchor="middle" >03</text>
+<text x="936" y="43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="17" font-weight="720" letter-spacing="0.4" fill="#1B273A" >TOOLS &amp; DESIGN</text>
+<path d="M883 67 L1257 67" fill="none" stroke="#D7DFE9" stroke-width="1" opacity="1" />
+<rect x="882" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="893" y="96" width="38" height="38" rx="11" fill="#C6A950" stroke="none" stroke-width="1" opacity="1"/>
+<text x="912" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#0D1B2A" text-anchor="middle" >LX</text>
+<text x="941" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Linux</text>
+<rect x="1076" y="82" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="1087" y="96" width="38" height="38" rx="11" fill="#36B384" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1106" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >NG</text>
+<text x="1135" y="121" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Nginx</text>
+<rect x="882" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="893" y="177" width="38" height="38" rx="11" fill="#F27152" stroke="none" stroke-width="1" opacity="1"/>
+<text x="912" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >GT</text>
+<text x="941" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Git</text>
+<rect x="1076" y="163" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="1087" y="177" width="38" height="38" rx="11" fill="#B785EA" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1106" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >FG</text>
+<text x="1135" y="202" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Figma</text>
+<rect x="882" y="244" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="893" y="258" width="38" height="38" rx="11" fill="#3D99D8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="912" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >PS</text>
+<text x="941" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Photoshop</text>
+<rect x="1076" y="244" width="185" height="68" rx="12" fill="#FFFFFF" stroke="#D7DFE9" stroke-width="1" />
+<rect x="1087" y="258" width="38" height="38" rx="11" fill="#DD9756" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1106" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF" text-anchor="middle" >AI</text>
+<text x="1135" y="283" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" letter-spacing="-0.25" fill="#1B273A" >Illustrator</text>
+</svg>

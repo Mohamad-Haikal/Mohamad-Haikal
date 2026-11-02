@@ -1,71 +1,126 @@
-<!--========================================        title       =======================================-->
-<h1 align="center">
-  Hi, I'm Mohamad Haikal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<!-- Mohamad Haikal | GitHub Profile -->
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" alt="Mohamad Haikal, full-stack developer and designer in Amman, Jordan" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://mohamad-haikal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-portfolio-dark.svg"><img src="./assets/link-portfolio-light.svg" alt="Portfolio" width="158"></picture></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohamad0haikal/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><img src="./assets/link-linkedin-light.svg" alt="LinkedIn" width="158"></picture></a>
+  &nbsp;
+  <a href="https://github.com/Mohamad-Haikal?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-repositories-dark.svg"><img src="./assets/link-repositories-light.svg" alt="Repositories" width="158"></picture></a>
+</p>
+
+## About
+
+I'm a **full-stack developer and designer** based in **Amman, Jordan**. I work on mobile and web applications, backend services, databases, and deployment. My background in visual design also shapes how I approach interfaces and usability.
+
+I study **Computer Science at Al-Hussein Technical University (HTU)**.
+
+## What I work on
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/backend-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/backend-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/backend-dark.svg"><img src="./assets/backend-light.svg" alt="Backend development illustration" width="100%"></picture>
+      <h3>Backend &amp; integrations</h3>
+      <p>APIs, authentication, webhooks, background jobs, and external integrations.</p>
+      </br>
+    </td>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/mobile-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/mobile-dark.svg"><img src="./assets/mobile-light.svg" alt="Mobile development illustration" width="100%"></picture>
+      <h3>Mobile applications</h3>
+      <p>Flutter apps, notifications, maps, background tasks, and store releases.</p>
+      </br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/frontend-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/frontend-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/frontend-dark.svg"><img src="./assets/frontend-light.svg" alt="Web development illustration" width="100%"></picture>
+      <h3>Web interfaces</h3>
+      <p>Responsive websites, admin dashboards, and multilingual interfaces.</p>
+      </br>
+    </td>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/platform-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/platform-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/platform-dark.svg"><img src="./assets/platform-light.svg" alt="Servers and infrastructure illustration" width="100%"></picture>
+      <h3>Servers &amp; deployment</h3>
+      <p>Linux deployments, Nginx, server configuration, monitoring, and debugging.</p>
+      </br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/devtools-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/devtools-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/devtools-dark.svg"><img src="./assets/devtools-light.svg" alt="Developer tools illustration" width="100%"></picture>
+      <h3>Tools &amp; automation</h3>
+      <p>VS Code extensions, scripts, CI/CD, and desktop tools.</p>
+      </br>
+    </td>
+    <td width="50%" valign="top">
+      </br>
+      <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/design-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/design-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/design-dark.svg"><img src="./assets/design-light.svg" alt="Graphic design illustration" width="100%"></picture>
+      <h3>Design &amp; multimedia</h3>
+      <p>Interface design, visual identity, video, motion graphics, and 3D.</p>
+      </br>
+    </td>
+  </tr>
+</table>
+
+## Technical stack
+
+<p align="center">
+  <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/workflow-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/workflow-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.svg"><img src="./assets/workflow-light.svg" alt="Visual overview: interfaces, applications, APIs and data, deployment" width="100%"></picture>
+</p>
+
+| Category | Technologies and tools |
+| :--- | :--- |
+| **Backend** | **PHP**, **Laravel**, REST APIs, webhooks, background jobs, API integrations |
+| **Mobile** | **Dart**, **Flutter**, **Firebase**, FCM, Android, iOS, maps and location features |
+| **Frontend** | **HTML**, **CSS**, **JavaScript**, **TypeScript**, responsive UI |
+| **Databases** | **MySQL**, SQL, relational modeling, queries, views and stored procedures |
+| **Infrastructure** | **Ubuntu / Linux**, **Nginx**, PHP-FPM, SSH, DNS, Git, **GitHub Actions**, CI/CD |
+| **Developer tools** | VS Code extension development, Python scripting, Git/GitHub |
+| **UI & graphic design** | **Figma**, **Adobe Illustrator**, **Photoshop** |
+| **Media & 3D** | **Premiere Pro**, **After Effects**, **Blender** |
+
+### Beyond my main stack
+
+I also work with or explore **UEFN and Verse** for game systems, **Arduino** and basic electronics, **desktop development with Tauri**, and **AI/automation experiments**. These are separate from my core Laravel and Flutter work.
+
+## Practical experience
+
+My experience covers **e-commerce**, **education**, **mobile operations and location tracking**, **subscription and account services**, **admin tools**, and **interactive software**. These are areas of work, not a list of featured projects.
+
+- **Mobile delivery:** Firebase messaging, mapping and live location features, Android/iOS builds, GitHub Actions, and mobile store release workflows.
+- **Backend operations:** Webhooks and external API integration, service logs, background processes, and server-side troubleshooting.
+- **Database work:** Designing relational schemas, writing queries, using views and stored procedures, and working with access permissions.
+- **Product interfaces:** Dashboards, administration panels, roles and permissions, and Arabic/English (RTL/LTR) experiences.
+
+## More
+
+**Education:** Computer Science student, Al-Hussein Technical University (HTU)  
+**Location:** Amman, Jordan  
+**Languages:** Arabic, English  
+**Links:** [Portfolio](https://mohamad-haikal.me) · [LinkedIn](https://www.linkedin.com/in/mohamad0haikal/) · [GitHub repositories](https://github.com/Mohamad-Haikal?tab=repositories)
+
+</br>
+<b>Other tools and areas I've worked with</b>
+<ul>
+  <li><strong>Game tools:</strong> Unreal Editor for Fortnite (UEFN), Verse, Blender, and gameplay prototyping.</li>
+  <li><strong>AI experiments:</strong> Python scripts, image-generation workflows, and AI-assisted development tools.</li>
+  <li><strong>Electronics:</strong> Arduino boards and HID / microcontroller experiments.</li>
+  <li><strong>Desktop:</strong> Tauri and Rust experiments, including bilingual (Arabic/English) interface concepts.</li>
+</ul>
 
 
 
-
-
-<!--========================================        animated description       =======================================-->
-<div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&color=ff9a1f&size=25&duration=2500&pause=2000&multiline=true&width=800&lines=Graphic+Designer+|+Flutter+Developer+|+Multimedia+Designer">
-</div>
-
-
-
-
-<!--========================================       s: contact with me       =======================================-->
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/Mohamad0Haikal/" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://Instagram.com/Mohamad0Haikal" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://Facebook.com/Mohamad0Haikal" target="_blank"><img src="https://img.shields.io/badge/Mohamad%20Haikal-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
-<!--========================================       buy me a coffee       =======================================-->
-<a href="https://www.buymeacoffee.com/Mohamad0Haikal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
-
----
-
-### 🎨 &nbsp;Creative Stack
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-7533CC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
----
-
-### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-0c458b?style=for-the-badge&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=for-the-badge&logo=Firebase)&nbsp;
-![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-<br>
-<br>
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
-<br>
-<br>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
-
-<!-- ### 📈 GitHub Activity Graph:
-
-<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Haikal&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-
-<a href="https://github.com/Mohamad-Haikal#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-
-<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Haikal&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
-
-
-<a href="https://github.com/Mohamad-Haikal#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a>
--->

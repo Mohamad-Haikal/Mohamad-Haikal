@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="170" viewBox="0 0 540 170" role="img" aria-labelledby="t">
+    <title id="t">Design &amp; media: decorative technical illustration</title>
+    <defs><clipPath id="clip"><rect x="1" y="1" width="538" height="168" rx="15"/></clipPath>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse"><path d="M19 0H0V19" fill="none" stroke="#d7e0ec" stroke-opacity=".35" stroke-width=".6"/></pattern></defs>
+    <rect x="1" y="1" width="538" height="168" rx="15" fill="#f8fafc" stroke="#d4dfea"/>
+    <g clip-path="url(#clip)"><rect x="320" y="0" width="220" height="170" fill="url(#grid)" opacity=".6"/><circle cx="428" cy="83" r="92" fill="#e4eff5" opacity=".56"/><path d="M308 0v170" stroke="#d4dfea" stroke-opacity=".55"/>
+    <rect x="24" y="27" width="44" height="24" rx="7" fill="#efa6ce" fill-opacity=".13"/><text x="46" y="43.5" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#efa6ce" text-anchor="middle">06</text>
+    <text x="82" y="44" font-family="Arial,Helvetica,sans-serif" font-size="10.8" letter-spacing="2.2" fill="#64748b">AREA / 06</text>
+    <text x="24" y="93" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.8" font-weight="700" fill="#1b2938">CREATIVE</text>
+    <path d="M24 116h205" stroke="#d4dfea"/><path d="M24 116h65" stroke="#efa6ce" stroke-width="2"/>
+    <text x="24" y="139" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#64748b">Design &amp; media</text>
+    <g stroke="#efa6ce" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M397 45l77 29-53 67-58-57z"/><circle cx="397" cy="45" r="7" fill="#efa6ce" fill-opacity=".25"/><circle cx="474" cy="74" r="7" fill="#efa6ce" fill-opacity=".25"/><circle cx="421" cy="141" r="7" fill="#efa6ce" fill-opacity=".25"/><circle cx="363" cy="84" r="7" fill="#efa6ce" fill-opacity=".25"/><path d="M397 45l-37-20m114 49 32 1m-85 66 13 16m-71-73-30 24"/><circle cx="359" cy="25" r="3"/><circle cx="506" cy="75" r="3"/><circle cx="434" cy="157" r="3"/><circle cx="333" cy="108" r="3"/></g></g></svg>

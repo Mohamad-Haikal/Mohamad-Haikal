@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="170" viewBox="0 0 540 170" role="img" aria-labelledby="t">
+    <title id="t">Developer tooling: decorative technical illustration</title>
+    <defs><clipPath id="clip"><rect x="1" y="1" width="538" height="168" rx="15"/></clipPath>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse"><path d="M19 0H0V19" fill="none" stroke="#d7e0ec" stroke-opacity=".35" stroke-width=".6"/></pattern></defs>
+    <rect x="1" y="1" width="538" height="168" rx="15" fill="#f8fafc" stroke="#d4dfea"/>
+    <g clip-path="url(#clip)"><rect x="320" y="0" width="220" height="170" fill="url(#grid)" opacity=".6"/><circle cx="428" cy="83" r="92" fill="#e4eff5" opacity=".56"/><path d="M308 0v170" stroke="#d4dfea" stroke-opacity=".55"/>
+    <rect x="24" y="27" width="44" height="24" rx="7" fill="#93daa9" fill-opacity=".13"/><text x="46" y="43.5" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#93daa9" text-anchor="middle">05</text>
+    <text x="82" y="44" font-family="Arial,Helvetica,sans-serif" font-size="10.8" letter-spacing="2.2" fill="#64748b">AREA / 05</text>
+    <text x="24" y="93" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.8" font-weight="700" fill="#1b2938">TOOLS</text>
+    <path d="M24 116h205" stroke="#d4dfea"/><path d="M24 116h65" stroke="#93daa9" stroke-width="2"/>
+    <text x="24" y="139" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#64748b">Developer tooling</text>
+    <g stroke="#93daa9" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="337" y="34" width="164" height="100" rx="12"/><path d="M337 55h164"/><circle cx="351" cy="45" r="3" fill="#93daa9" stroke="none"/><circle cx="361" cy="45" r="3"/><path d="M351 78l10 8-10 8m21 0h30m-51 17h56"/><path d="M447 77h35v39h-35z" stroke-opacity=".55"/><path d="M456 93l7 7 11-16"/></g></g></svg>
