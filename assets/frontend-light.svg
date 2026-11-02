@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="170" viewBox="0 0 540 170" role="img" aria-labelledby="t">
+    <title id="t">Web interfaces: decorative technical illustration</title>
+    <defs><clipPath id="clip"><rect x="1" y="1" width="538" height="168" rx="15"/></clipPath>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse"><path d="M19 0H0V19" fill="none" stroke="#d7e0ec" stroke-opacity=".35" stroke-width=".6"/></pattern></defs>
+    <rect x="1" y="1" width="538" height="168" rx="15" fill="#f8fafc" stroke="#d4dfea"/>
+    <g clip-path="url(#clip)"><rect x="320" y="0" width="220" height="170" fill="url(#grid)" opacity=".6"/><circle cx="428" cy="83" r="92" fill="#e4eff5" opacity=".56"/><path d="M308 0v170" stroke="#d4dfea" stroke-opacity=".55"/>
+    <rect x="24" y="27" width="44" height="24" rx="7" fill="#70b8f6" fill-opacity=".13"/><text x="46" y="43.5" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#70b8f6" text-anchor="middle">03</text>
+    <text x="82" y="44" font-family="Arial,Helvetica,sans-serif" font-size="10.8" letter-spacing="2.2" fill="#64748b">AREA / 03</text>
+    <text x="24" y="93" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.8" font-weight="700" fill="#1b2938">WEB</text>
+    <path d="M24 116h205" stroke="#d4dfea"/><path d="M24 116h65" stroke="#70b8f6" stroke-width="2"/>
+    <text x="24" y="139" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#64748b">Web interfaces</text>
+    <g stroke="#70b8f6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="343" y="34" width="145" height="92" rx="10"/><path d="M343 54h145M360 44h2m11 0h2m11 0h2"/><rect x="356" y="67" width="34" height="46" rx="5" fill="#70b8f6" fill-opacity=".12"/><path d="M403 75h67m-67 12h51m-51 12h58m-58 12h28"/><path d="M489 81l16 11-16 11"/></g></g></svg>

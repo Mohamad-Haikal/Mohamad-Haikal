@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="170" viewBox="0 0 540 170" role="img" aria-labelledby="t">
+    <title id="t">Backend &amp; APIs: decorative technical illustration</title>
+    <defs><clipPath id="clip"><rect x="1" y="1" width="538" height="168" rx="15"/></clipPath>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse"><path d="M19 0H0V19" fill="none" stroke="#d7e0ec" stroke-opacity=".35" stroke-width=".6"/></pattern></defs>
+    <rect x="1" y="1" width="538" height="168" rx="15" fill="#f8fafc" stroke="#d4dfea"/>
+    <g clip-path="url(#clip)"><rect x="320" y="0" width="220" height="170" fill="url(#grid)" opacity=".6"/><circle cx="428" cy="83" r="92" fill="#e4eff5" opacity=".56"/><path d="M308 0v170" stroke="#d4dfea" stroke-opacity=".55"/>
+    <rect x="24" y="27" width="44" height="24" rx="7" fill="#83ddd0" fill-opacity=".13"/><text x="46" y="43.5" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#83ddd0" text-anchor="middle">01</text>
+    <text x="82" y="44" font-family="Arial,Helvetica,sans-serif" font-size="10.8" letter-spacing="2.2" fill="#64748b">AREA / 01</text>
+    <text x="24" y="93" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.8" font-weight="700" fill="#1b2938">BACKEND</text>
+    <path d="M24 116h205" stroke="#d4dfea"/><path d="M24 116h65" stroke="#83ddd0" stroke-width="2"/>
+    <text x="24" y="139" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#64748b">Backend &amp; APIs</text>
+    <g stroke="#83ddd0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <rect x="356" y="41" width="101" height="76" rx="11"/><path d="M370 59h73M375 75h18M375 88h35M375 101h18"/><circle cx="439" cy="89" r="5" fill="#83ddd0" stroke="none"/><path d="M457 78l30-21m-30 45 29 11"/><rect x="483" y="44" width="19" height="19" rx="5"/><rect x="482" y="106" width="19" height="19" rx="5"/>
+        </g></g></svg>
